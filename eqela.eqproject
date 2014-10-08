@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# SessionPart2
+#
+
+projectname: SessionPart2
+vendorid: com.mycompany
+mainmodule: com.mycompany.sessionpart2
